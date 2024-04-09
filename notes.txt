@@ -1,0 +1,13 @@
+.env package use to fethc the PORT value from the .env file with the help of Process Module
+
+used thunderclient for api testing
+
+app.use(express.json()); //to parse the data stream that we recieve from the client
+
+when we are using asyn we need to use try catch block for error handling
+
+in this project used express async handler 
+
+used moongose helps to connect with MongoDB and create objects like User
+
+Brypt aslo provide us a promise
